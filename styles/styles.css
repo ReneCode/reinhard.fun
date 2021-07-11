@@ -1,0 +1,33 @@
+html {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+  color: #5355d6;
+  opacity: 0.7;
+  text-decoration: none;
+}
+a:hover {
+  cursor: pointer;
+  color: #5355d6;
+  opacity: 1;
+}
+
+body {
+  margin: 0px;
+  background-color: #c0cccf;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+
+.header {
+  margin: 0px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #8899aa;
+}

@@ -25,7 +25,6 @@ const Post = ({ post, morePosts, preview }: Props) => {
   return (
     <Layout>
       <Container>
-        <Header />
         {router.isFallback ? (
           <PostTitle>Loading ...</PostTitle>
         ) : (
@@ -33,14 +32,8 @@ const Post = ({ post, morePosts, preview }: Props) => {
             <article className="mb-32">
               <Head>
                 <title>{post.title}</title>
-                <meta property="og:image" content={post.coverImage} />
               </Head>
-              <PostHeader
-                title={post.title}
-                coverImage={post.coverImage}
-                date={post.date}
-                author={post.author}
-              ></PostHeader>
+              <PostHeader title={post.title} date={post.date}></PostHeader>
               <PostBody content={post.content} />
             </article>
           </>
@@ -56,27 +49,22 @@ type Params = {
   };
 };
 export async function getStaticProps({ params }: Params) {
-  const post = getPostBySlug(params.slug, [
-    "title",
-    "date",
-    "slug",
-    "author",
-    "content",
-    "coverImage",
-  ]);
-  const content = await markdownToHtml(post.content);
-  return {
-    props: {
-      post: {
-        ...post,
-        content: content,
+  const post = await getPostBySlug(params.slug);
+  if (post) {
+    const content = await markdownToHtml(post.content);
+    return {
+      props: {
+        post: {
+          ...post,
+          content: content,
+        },
       },
-    },
-  };
+    };
+  }
 }
 
 export async function getStaticPaths() {
-  const posts = getAllPosts(["slug"]);
+  const posts = await getAllPosts();
 
   return {
     paths: posts.map((post) => {

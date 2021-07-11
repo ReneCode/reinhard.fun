@@ -1,5 +1,8 @@
 import Footer from "./Footer";
 
+import Head from "next/head";
+import Header from "./Header";
+
 type Props = {
   preview?: boolean;
   children: React.ReactNode;
@@ -8,7 +11,13 @@ type Props = {
 const Layout = ({ preview, children }: Props) => {
   return (
     <>
-      <div className="min-h-screen">
+      <Head>
+        <title>reinhard.fun Blog</title>
+
+        <link rel="styesheet" href="styles.css" />
+      </Head>
+      <div className="">
+        <Header />
         <main>{children}</main>
       </div>
       <Footer></Footer>

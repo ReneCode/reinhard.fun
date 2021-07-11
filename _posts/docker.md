@@ -1,10 +1,8 @@
 ---
 title: docker - first steps
-date: "2021-04-01T"
+date: "2021-04-01"
 ---
 
-# Docker
+Start a Docker container
 
-'''
-docker run nginx -v 80:4000
-'''
+    docker run nginx -v 80:4000

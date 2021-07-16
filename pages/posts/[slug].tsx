@@ -4,10 +4,7 @@ import Head from "next/head";
 import { PostType } from "../../types/post";
 import Layout from "../../components/Layout";
 import Container from "../../components/Container";
-import Header from "../../components/Header";
-import PostTitle from "../../components/PostTitle";
-import PostHeader from "../../components/PostHeader";
-import PostBody from "../../components/PostBody";
+import Post from "../../components/Post";
 import { getAllPosts, getPostBySlug } from "../../lib/api";
 import { markdownToHtml } from "../../lib/markdownToHtml";
 
@@ -17,7 +14,7 @@ type Props = {
   preview?: boolean;
 };
 
-const Post = ({ post, morePosts, preview }: Props) => {
+const ShowPost = ({ post }: Props) => {
   const router = useRouter();
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />;
@@ -26,17 +23,14 @@ const Post = ({ post, morePosts, preview }: Props) => {
     <Layout>
       <Container>
         {router.isFallback ? (
-          <PostTitle>Loading ...</PostTitle>
+          <h3>Loading ...</h3>
         ) : (
-          <>
-            <article className="mb-32">
-              <Head>
-                <title>{post.title}</title>
-              </Head>
-              <PostHeader title={post.title} date={post.date}></PostHeader>
-              <PostBody content={post.content} />
-            </article>
-          </>
+          <article>
+            <Head>
+              <title>{post.title}</title>
+            </Head>
+            <Post title={post.title} date={post.date} content={post.content} />
+          </article>
         )}
       </Container>
     </Layout>
@@ -78,4 +72,4 @@ export async function getStaticPaths() {
   };
 }
 
-export default Post;
+export default ShowPost;

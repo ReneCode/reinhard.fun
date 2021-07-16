@@ -1,6 +1,4 @@
-import Head from "next/head";
 import { getAllPosts } from "../lib/api";
-import styles from "../styles/index.module.css";
 import Layout from "../components/Layout";
 import { PostType } from "../types/post";
 import Container from "../components/Container";

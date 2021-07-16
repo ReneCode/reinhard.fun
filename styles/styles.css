@@ -3,24 +3,34 @@ html {
 }
 
 a {
-  color: #5355d6;
-  opacity: 0.7;
+  color: #6768d1;
   text-decoration: none;
 }
 a:hover {
   cursor: pointer;
-  color: #5355d6;
-  opacity: 1;
+  color: #3033c2;
 }
 
 body {
   margin: 0px;
-  background-color: #c0cccf;
+  background-color: #dcdde2;
 }
 
 main {
   display: flex;
   justify-content: center;
+}
+
+article {
+  min-width: 600px;
+  width: 700px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: baseline;
 }
 
 .header {
@@ -29,5 +39,6 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #8899aa;
+  background-color: #d8e2e2;
+  border-bottom: 1px solid rgb(143, 146, 146);
 }

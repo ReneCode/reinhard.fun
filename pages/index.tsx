@@ -1,35 +1,36 @@
-import { getAllPosts } from "../lib/api";
-import Layout from "../components/Layout";
-import { PostType } from "../types/post";
-import Container from "../components/Container";
-import BlogListItem from "../components/BlogListItem";
+import type { NextPage } from "next";
+import Head from "next/head";
+import Post from "../components/Post";
+import { PostType } from "../types";
+import { getAllPosts, sortByDate } from "../utils";
 
-type Props = {
-  allPosts: PostType[];
-};
-
-const Index = ({ allPosts }: Props) => {
-  const heroPost = allPosts[0];
-  const morePosts = allPosts.slice(1);
-
+interface Props {
+  posts: PostType[];
+}
+const Home: NextPage<Props> = ({ posts }) => {
   return (
-    <>
-      <Layout>
-        <Container>
-          {allPosts.map((post, idx) => {
-            return <BlogListItem key={idx} post={post}></BlogListItem>;
-          })}
-        </Container>
-      </Layout>
-    </>
+    <div>
+      <Head>
+        <title>Dev Blog</title>
+      </Head>
+
+      <div className="posts">
+        {posts.map((post, index) => {
+          return <Post key={index} post={post} />;
+        })}
+      </div>
+    </div>
   );
 };
 
-export const getStaticProps = async () => {
-  const allPosts = await getAllPosts();
-  return {
-    props: { allPosts },
-  };
-};
+export async function getStaticProps() {
+  const posts = await getAllPosts();
 
-export default Index;
+  return {
+    props: {
+      posts: posts.sort(sortByDate),
+    },
+  };
+}
+
+export default Home;

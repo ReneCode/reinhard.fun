@@ -1,12 +1,15 @@
+import type { NextPage } from "next";
 import Link from "next/link";
 
-const Header = () => {
+const Header: NextPage = () => {
   return (
-    <h1 className="header">
-      <Link href="/">
-        <a>reinhard.fun</a>
-      </Link>
-    </h1>
+    <header>
+      <div className="container">
+        <Link href="/">
+          <h2>Dev-Blog</h2>
+        </Link>
+      </div>
+    </header>
   );
 };
 

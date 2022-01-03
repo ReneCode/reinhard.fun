@@ -96,3 +96,16 @@ for num in numbers.iter() {
   println!("{}", num)   // called for each element
 }
 ```
+
+## Range
+
+```rust
+let count  = 5;
+for i in 0..count {
+  // i = 0,1,2,3,4
+}
+
+for j in 0..=count {
+  // i = 0,1,2,3,4,5
+}
+```

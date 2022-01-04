@@ -109,3 +109,15 @@ for j in 0..=count {
   // i = 0,1,2,3,4,5
 }
 ```
+
+## immmutable data structure
+
+Use the crate:
+[ `im` / `im-c`](https://docs.rs/im/latest/im/).
+It currently works with:
+
+- HashMap
+- HashSet
+- OrdMap
+- OrdSet
+- Vector

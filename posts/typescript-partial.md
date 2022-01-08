@@ -81,3 +81,7 @@ const person: RecursivePartial<Person> = {
   }
 }
 ```
+
+## Thanks
+
+this was found on [Stackoverflow](https://stackoverflow.com/questions/41980195/recursive-partialt-in-typescript?answertab=active#tab-top)

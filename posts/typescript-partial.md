@@ -17,15 +17,21 @@ interface Person {
 
 type PartialPerson = Partial<Person>
 
-# this PartialPerson is equal to:
-
+// this PartialPerson is equal to:
 interface Person {
   name?: string,
   age?: number,
 }
+
+// so "bob" without age is a valid person
+const person: Partial<Person> = {
+  name: "bob"
+}
 ```
 
 ## nested properties
+
+But what if the interface as nested properties ?
 
 ```
 interface Person {
@@ -39,8 +45,7 @@ interface Person {
 
 type PartialPerson = Partial<Person>
 
-# this ParcialPerson is equal to:
-
+//this PartialPerson is equal to:
 interface Person {
   name?: string,
   age?: number,
@@ -51,7 +56,6 @@ interface Person {
 }
 
 // this is invalid, because ``adress`` is not fully set:
-
 const person: Partial<Person> = {
   name: "bob",
   adress: {
@@ -66,13 +70,10 @@ Thanks to the power of typescript there is a way to make that PartialPerson vali
 
 ```
 type RecursivePartial<T> = {
-  [P in keyof T]?: T[P] extends (infer U)[]
-    ? RecursivePartial<U>[]
-    : T[P] extends object
-    ? RecursivePartial<T[P]>
-    : T[P];
+  [P in keyof T]?: RecursivePartial<T[P]>;
 };
 
+// this works fine :-)
 const person: RecursivePartial<Person> = {
   name: "bob",
   adress: {

@@ -41,6 +41,15 @@ grouped_with_count = df.groupby('city').size()
 grouped_with_count = df.groupby('city').city.count()
 ```
 
+### grouping in a series
+
+```
+grouped_with_counts = df.city.value_counts()
+
+#  london  12
+#  toronto 53
+```
+
 ## Show distribution on values in a Series
 
 ```
@@ -56,4 +65,50 @@ min      85.855422
 75%      88.975256
 max      90.562551
 Name: points, dtype: float64
+```
+
+## Filter
+
+```
+expensive = df[ df.price > 100 ]
+
+# combine filter  and = &  or = |
+italian, expensive = df[ (df.country == 'italy') & (df.price > 100) ]
+```
+
+## Show data type
+
+```
+# get type
+data_type = df['points'].dtype
+
+# convert type
+new_type = df.points.astype('str')
+
+```
+
+# Check NaN isnull
+
+```
+# filter is array of True, False
+filter = pd.isnull(df.price)
+
+# use filter
+all_not_null = df[pd.isnotnull(df.price)]
+```
+
+## replace NaN values with other value
+
+```
+# get series with NaN replaced
+cities_with_name = df.fillna('Unknown')
+
+# or replace in a data frame
+df.city = df.fillna('Unknown')
+```
+
+### replace values
+
+```
+df.city.replace('NY', 'New York')
 ```

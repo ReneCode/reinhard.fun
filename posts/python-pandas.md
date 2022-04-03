@@ -15,6 +15,18 @@ Detailed instructions here on [kaggle](https://www.kaggle.com)
 
 - [Data Types and Missing Values](https://www.kaggle.com/code/residentmario/data-types-and-missing-values)
 
+- [Renaming and combining](https://www.kaggle.com/code/residentmario/renaming-and-combining)
+
+## Display data
+
+```
+df = pd.read_csv('./data.csv')
+df.head()
+
+# show all
+display(df)
+```
+
 ## Pick a Colum / Series from a DataFrame
 
 ```
@@ -25,6 +37,9 @@ df = pd.read_csv('./data.csv')
 names = df['name']
 # or
 names = df.name
+
+# add a column with fixed value
+df['new_col'] = 'my_value'
 ```
 
 ## Sort rows in a DataFrame
@@ -111,4 +126,28 @@ df.city = df.fillna('Unknown')
 
 ```
 df.city.replace('NY', 'New York')
+```
+
+## rename column
+
+```
+new_df = df.rename(columns={'timestamp [UTC]': 'timestamp'})
+
+# rename index
+reindexed = reviews.rename_axis('wines', axis='rows')
+```
+
+## Concat, Join
+
+```
+# df_A and df_B have to be same scheme
+concated = pd.concat([df_A, df_B])
+```
+
+```
+# join together using the index
+left = df_X.set_index('project_id')
+right = df_Y.set_index('prj_id')
+# optional rename columns to make them unique
+joined = left.join(right, lsuffix='_X', rsuffix='_Y')
 ```

@@ -134,4 +134,18 @@ fn add(a: u32, b: u64) -> u64 {
 }
 ```
 
+## pattern matching
+
+```
+let input = "32";
+let a:u32;
+match input.trim().parse() {
+  Ok(val) => a = val,
+  Err(_err) => {
+    println!("not a valid number");
+    process::exit();
+  }
+}
+```
+
 ## Documentation

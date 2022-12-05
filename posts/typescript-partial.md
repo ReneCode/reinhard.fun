@@ -23,7 +23,7 @@ interface Person {
   age?: number,
 }
 
-// so "bob" without age is a valid person
+// so "bob" without age is a valid PartialPerson
 const person: Partial<Person> = {
   name: "bob"
 }

@@ -30,3 +30,26 @@ month = "%02d" % (now.month)
 ```
 from datetime import datetime
 ```
+
+## Object, Instance
+
+```
+def isPair(obj):
+  return isinstance(obj, Pair)
+
+class Pair:
+  def __init__(self, x, y):
+    self.x = x
+    self.y = y
+
+  def __repr__(self):
+    return f'Pair: {self.x},{self.y}'
+
+p = Pair(1,2)
+
+# this is True
+print(isPair(p))
+
+# this is False
+print(isPair(42))
+```

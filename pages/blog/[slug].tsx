@@ -6,21 +6,14 @@ import Link from "next/link";
 // https://stackoverflow.com/questions/64332569/highlight-code-with-markdown-it-js-and-highlight-js
 
 import md from "markdown-it";
-import hljs from "highlight.js/lib/core";
 import markdown_highlight from "markdown-it-highlightjs";
-
-const highlight_options = {
-  hljs: hljs,
-};
 
 const PostPage: NextPage<PostType> = ({
   slug,
   frontmatter: { title, date, cover_image },
   content,
 }) => {
-  const htmlContent = md()
-    .use(markdown_highlight, highlight_options)
-    .render(content);
+  const htmlContent = md().use(markdown_highlight).render(content);
 
   return (
     <>

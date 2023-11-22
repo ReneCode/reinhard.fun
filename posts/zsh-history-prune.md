@@ -15,6 +15,7 @@ user@~/ >history
     2  ls
     3  ls -an
     4  pwd
+user@~/ >
 ```
 
 Sometimes you want to clean your history. On bash-shell it is the `history -c` command. But on zsh this can be done by `history -p`. (this sounds like _prune_).

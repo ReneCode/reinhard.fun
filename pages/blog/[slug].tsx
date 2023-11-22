@@ -3,13 +3,25 @@ import { getAllPostFilenames, getPost } from "../../utils";
 import { PostType } from "../../types";
 import Link from "next/link";
 
-import { marked } from "marked";
+// https://stackoverflow.com/questions/64332569/highlight-code-with-markdown-it-js-and-highlight-js
+
+import md from "markdown-it";
+import hljs from "highlight.js/lib/core";
+import markdown_highlight from "markdown-it-highlightjs";
+
+const highlight_options = {
+  hljs: hljs,
+};
 
 const PostPage: NextPage<PostType> = ({
   slug,
   frontmatter: { title, date, cover_image },
   content,
 }) => {
+  const htmlContent = md()
+    .use(markdown_highlight, highlight_options)
+    .render(content);
+
   return (
     <>
       <Link href="/">
@@ -20,7 +32,7 @@ const PostPage: NextPage<PostType> = ({
         <div className="post-date">{date}</div>
         <img src={cover_image} alt="" />
         <div className="post-body">
-          <div dangerouslySetInnerHTML={{ __html: marked(content) }}></div>
+          <div dangerouslySetInnerHTML={{ __html: htmlContent }}></div>
         </div>
       </div>
     </>

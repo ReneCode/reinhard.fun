@@ -54,3 +54,24 @@ let line: &str = ....
 let data = MyData::from(line);
 
 ```
+
+## pattern matching on vectors
+
+If you want to match on different vectors you
+have to compare is as_slice().
+
+```rust
+let counts: Vec<i32> = get_counts(cards);
+let result = match counts.as_slice() {
+    [5] => Type::FiveOfKind,
+    [4, 1] => Type::FourOfKind,
+    [3, 2] => Type::FullHouse,
+    [3, 1, 1] => Type::ThreeOfKind,
+    [2, 2, 1] => Type::TwoPair,
+    [2, 1, 1, 1] => Type::OnePair,
+    [1, 1, 1, 1, 1] => Type::HighCard,
+    _ => {
+        panic!("bad counts")
+    }
+};
+```

@@ -75,3 +75,15 @@ let result = match counts.as_slice() {
     }
 };
 ```
+
+## pattern matchin on multiple cases
+
+```rust
+let cmd = ...
+match cmd {
+  'C' | 'c' => {
+    // this will be executed on 'C' or 'c'
+   }
+  'x' => { }
+}
+```

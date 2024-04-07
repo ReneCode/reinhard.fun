@@ -53,3 +53,34 @@ extern crate approx;
 ```
 
 More about **approx** can be found [here:](https://docs.rs/approx/latest/)
+
+## println! during the test
+
+If you print out something during the test you will not see it when running.
+But there is a flag show the outputs:
+
+`cargo test -- --nocapture`
+
+or in watch mode and keeping the coloring:
+
+`cargo watch -x "test -- --nocapture --color always"`
+
+More about **display options** can be found [here:](https://doc.rust-lang.org/cargo/commands/cargo-test.html#display-options)
+
+## measure time during test
+
+```rust
+#[test]
+fn test_with_time() {
+  let start = ProcessTime::try_now().expect("Getting process time failed");
+  // ... do some testing
+  let cpu_time: Duration = start.try_elapsed().expect("Getting process time failed");
+    println!(" {:?}", cpu_time);
+}
+```
+
+Run the tests with
+
+`cargo test -- --nocapture`
+
+to see the output of the cpu time

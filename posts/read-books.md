@@ -16,6 +16,7 @@ cover_image: /images/posts/orange-1.svg
 | Zukunft                                                                           | Florence Gaub                             | [](/images/books/zukunft.webp)                   |
 | China First                                                                       | Theo Sommer                               | [](/images/books/china-first.webp)               |
 | Chronik der Wende                                                                 | Hannes Bahrmann, Christoph Links          | [](/images/books/chronik-der-wende.webp)         |
+| Lütten Klein / Leben in der ostdeutschen Transformationsgesellschaft              | Steffen Mau                               |                                                  |
 | 2023                                                                              |                                           |                                                  |
 | Triggerpunkte                                                                     | Steffan Mau, Thomas Lux, Linus Westheuser | [](/images/books/triggerpunkte.webp)             |
 | Die große Arbeiterlosigkeit                                                       | Sebastian Dettmers                        |                                                  |

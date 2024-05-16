@@ -87,3 +87,17 @@ match cmd {
   'x' => { }
 }
 ```
+
+# lifetime
+
+```rust
+pub struct HighScores<'a> {
+    scores: &'a [u32],
+}
+
+impl<'a> HighScores<'a> {
+    pub fn new(scores: &'a [u32]) -> Self {
+        HighScores { scores: scores }
+    }
+}
+```

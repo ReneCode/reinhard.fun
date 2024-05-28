@@ -10,6 +10,8 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                             | Author                                    |
 | --------------------------------------------------------------------------------- | ----------------------------------------- |
 | 2024                                                                              |                                           |
+| Was wollen die denn hier                                                          | Lucas Vogelsang und Joachim Krol          |
+| Mythos Auto                                                                       | Rainer Ade                                |
 | Vom Mauerfall zur Wiedervereinigung                                               | Helmut Kohl                               |
 | Warum die Welt nicht fair ist                                                     | Yuval Noah Harari                         |
 | Wie wir Menschen die Welt eroberten                                               | Yuval Noah Harari                         |

@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                             | Author                                    |
 | --------------------------------------------------------------------------------- | ----------------------------------------- |
 | 2024                                                                              |                                           |
+| Klick, Risiken erkennen und richtig entscheiden in der digitalen Welt             | Gerd Gigerenzer und Hainer Kober          |
 | Das kleine Buch der großen Risiken: Von Atombombe bis Zombieapokalypse            | Jakob Thomä                               |
 | Was wollen die denn hier                                                          | Lucas Vogelsang und Joachim Krol          |
 | Mythos Auto                                                                       | Rainer Ade                                |

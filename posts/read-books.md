@@ -10,6 +10,8 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                             | Author                                    |
 | --------------------------------------------------------------------------------- | ----------------------------------------- |
 | 2024                                                                              |                                           |
+| Eine unmögliche Geschichte: Als Politik und Bürger Berge versetzten               | Fritz Pleitgen                            |
+| Die 13½ Leben des Käpt’n Blaubär                                                  | Walter Moers                              |
 | Klick, Risiken erkennen und richtig entscheiden in der digitalen Welt             | Gerd Gigerenzer und Hainer Kober          |
 | Das kleine Buch der großen Risiken: Von Atombombe bis Zombieapokalypse            | Jakob Thomä                               |
 | Was wollen die denn hier                                                          | Lucas Vogelsang und Joachim Krol          |

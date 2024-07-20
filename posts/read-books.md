@@ -43,7 +43,7 @@ cover_image: /images/posts/orange-1.svg
 | Die resiliente Gesellschaft                                                       | Markus K. Brunnermeier                    |
 | Nachts im Kanzleramt                                                              | Marietta Slomka                           |
 | 2022                                                                              |                                           |
-| Künstiliche Intelligenz und der Sinn des Lebens                                   | Richard David Precht                      |
+| Künstliche Intelligenz und der Sinn des Lebens                                    | Richard David Precht                      |
 | Gegen die Ohnmacht                                                                | Luisa Neubauer und Dagmar Reemtsma        |
 | Deutschland 2050                                                                  | Toralf Staud und Nick Reimer              |
 | Lichtblick statt Blackout                                                         | Vince Ebert                               |

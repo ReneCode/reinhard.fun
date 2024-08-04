@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                             | Author                                    |
 | --------------------------------------------------------------------------------- | ----------------------------------------- |
 | 2024                                                                              |                                           |
+| Februar 33: Der Winter der Literatur                                              | Uwe Wittstock                             |
 | Im Moralgefängnis, Spaltung verstehen und überwinden                              | Michael Andrick                           |
 | Wolfszeit, Deutschland und die Deutschen 1945 - 1955                              | Harald Jähner                             |
 | Eine unmögliche Geschichte: Als Politik und Bürger Berge versetzten               | Fritz Pleitgen                            |

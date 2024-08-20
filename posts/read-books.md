@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                             | Author                                    |
 | --------------------------------------------------------------------------------- | ----------------------------------------- |
 | 2024                                                                              |                                           |
+| Warum die Welt keinen Frieden findet                                              | Carlo Masala                              |
 | Die vierte Gewalt – Wie Mehrheitsmeinung gemacht wird, auch wenn sie keine ist    | Richard David Precht, Harald Welzer       |
 | Februar 33: Der Winter der Literatur                                              | Uwe Wittstock                             |
 | Im Moralgefängnis, Spaltung verstehen und überwinden                              | Michael Andrick                           |

@@ -100,6 +100,46 @@ match optional_point {
 }
 ```
 
+# Error
+
+You should return a `Result<a, b>` if a function can create an error. `a` is the type of the ok value, and `b` is the type of the error value
+
+```rust
+pub fn total_cost(item_quantity: &str) -> Result<i32, ParseIntError> {
+    let processing_fee = 1;
+    let cost_per_item = 5;
+    // that ? imideately leaves the function if parsing returns an error
+    let qty = item_quantity.parse::<i32>()?;
+
+    Ok(qty * cost_per_item + processing_fee)
+}
+```
+
+If in a function several different errors can appear, than you can return `Result<a, Box<dyn Error>>>`
+
+```rust
+fn main() -> Result<(), Box<dyn Error>> {
+  ...
+}
+```
+
+# generics
+
+Set the generic type T in `struct` and `impl`.
+
+```rust
+struct Wrapper<T> {
+    value: T,
+}
+
+// TODO: Adapt the struct's implementation to be generic over the wrapped value.
+impl<T> Wrapper<T> {
+    fn new(value: T) -> Self {
+        Wrapper { value }
+    }
+}
+```
+
 # lifetime
 
 ```rust

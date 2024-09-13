@@ -88,6 +88,18 @@ match cmd {
 }
 ```
 
+## pattern matching on Option<> without moving
+
+the `Some(ref p)` instead of `Some(p)` avoids moving the value.
+
+```rust
+let optional_point = Some(Point { x: 100, y: 200 });
+match optional_point {
+    Some(ref p) => println!("Co-ordinates are {},{}", p.x, p.y),
+    _ => panic!("No match!"),
+}
+```
+
 # lifetime
 
 ```rust

@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                             | Author                                    |
 | --------------------------------------------------------------------------------- | ----------------------------------------- |
 | 2024                                                                              |                                           |
+| Unverfügbarkeit                                                                   | Hartmut Rosa                              |
 | Berlin. Das Rom der Zeitgeschichte                                                | Hanno Hochmuth                            |
 | Warum die Welt keinen Frieden findet                                              | Carlo Masala                              |
 | Die vierte Gewalt – Wie Mehrheitsmeinung gemacht wird, auch wenn sie keine ist    | Richard David Precht, Harald Welzer       |

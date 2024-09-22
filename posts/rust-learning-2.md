@@ -29,6 +29,24 @@ fn foo(numbers: &[i32]) {
 }
 ```
 
+## Tait as parameter
+
+```rust
+trait Summary {
+  fn summarize() {...}
+}
+
+pub fn notify(item: &impl Summary) {
+    println!("Breaking news! {}", item.summarize());
+}
+
+// item has to implement two traits
+fn some_func(item: impl SomeTrait + OtherTrait) -> bool {
+    item.some_function() && item.other_function()
+}
+
+```
+
 ## usefull traits
 
 ### From trait
@@ -151,5 +169,29 @@ impl<'a> HighScores<'a> {
     pub fn new(scores: &'a [u32]) -> Self {
         HighScores { scores: scores }
     }
+}
+```
+
+lifetime on functions
+
+```rust
+fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {
+    if x.len() > y.len() {
+        x
+    } else {
+        y
+    }
+}
+```
+
+# testing
+
+## test if a function panics
+
+```rust
+#[test]
+#[should_panic]
+fn greater_than_100() {
+    Guess::new(200);
 }
 ```

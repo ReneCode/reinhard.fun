@@ -10,6 +10,8 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                             | Author                                    |
 | --------------------------------------------------------------------------------- | ----------------------------------------- |
 | 2024                                                                              |                                           |
+| Ungleich vereint                                                                  | Steffen Mau                               |
+| 9 Regeln für einen optimalen Stoffwechsel                                         | Ingo Froböse                              |
 | Unverfügbarkeit                                                                   | Hartmut Rosa                              |
 | Berlin. Das Rom der Zeitgeschichte                                                | Hanno Hochmuth                            |
 | Warum die Welt keinen Frieden findet                                              | Carlo Masala                              |

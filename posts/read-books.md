@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                               | Author                                    |
 | ----------------------------------------------------------------------------------- | ----------------------------------------- |
 | 2024                                                                                |                                           |
+| Vom Ende des Gemeinwohls                                                            | Michael J. Sandel                         |
 | Amerika - der Traum vom neuen Leben                                                 | Wolf von Lojewski                         |
 | Schicksalsstunden einer Demokratie: Das aufhaltsame Scheitern der Weimarer Republik | Volker Ulrich                             |
 | Ungleich vereint                                                                    | Steffen Mau                               |

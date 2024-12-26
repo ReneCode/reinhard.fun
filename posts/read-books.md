@@ -9,8 +9,8 @@ cover_image: /images/posts/orange-1.svg
 
 | Title                                                                               | Author                                    |
 | ----------------------------------------------------------------------------------- | ----------------------------------------- |
-| Das doppelte Deutschland, Eine Parallelgeschichte, 1949 – 1990                      | Ursula Weidenfeld                         |
 | 2024                                                                                |                                           |
+| Das doppelte Deutschland, Eine Parallelgeschichte, 1949 – 1990                      | Ursula Weidenfeld                         |
 | Streiten                                                                            | Svenja Flaßpöhler                         |
 | Vom Ende des Gemeinwohls                                                            | Michael J. Sandel                         |
 | Amerika - der Traum vom neuen Leben                                                 | Wolf von Lojewski                         |

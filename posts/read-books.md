@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                               | Author                                    |
 | ----------------------------------------------------------------------------------- | ----------------------------------------- |
 | 2024                                                                                |                                           |
+| Streiten                                                                            | Svenja Flaßpöhler                         |
 | Vom Ende des Gemeinwohls                                                            | Michael J. Sandel                         |
 | Amerika - der Traum vom neuen Leben                                                 | Wolf von Lojewski                         |
 | Das einzige Buch, das Du über Finanzen lesen solltest                               | Thomas Kehl, Mona Linke                   |

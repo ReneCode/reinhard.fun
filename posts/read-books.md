@@ -1,6 +1,6 @@
 ---
 title: Read Books
-date: "2024-12-31"
+date: "2025-2-1"
 excerpt: What books I have read
 cover_image: /images/posts/orange-1.svg
 ---
@@ -9,6 +9,8 @@ cover_image: /images/posts/orange-1.svg
 
 | Title                                                                               | Author                                                                       |
 | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| ========== 2025 ==========                                                          | ================================                                             |
+| Erinnerungen, Mein Leben in der Politik                                             | Wolfgang Schäuble                                                            |
 | ========== 2024 ==========                                                          | ================================                                             |
 | Ein Manifest: Weil das Land sich ändern muß                                         | Dönhoff, Miegel, Nölling, Reuter, Schmidt, Schröder, Thierse, von Weizsäcker |
 | Das doppelte Deutschland, Eine Parallelgeschichte, 1949 – 1990                      | Ursula Weidenfeld                                                            |

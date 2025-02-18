@@ -14,6 +14,7 @@ Detailed instructions here on [Conda](https://docs.conda.io/en/latest/miniconda.
 ```
 # create environment
 conda create --name abc
+conda create -n abc
 
 # list all environments
 conda env list
@@ -23,4 +24,10 @@ conda activate abc
 
 # remove environment
 conda env remove --name abc
+```
+
+## Install packages
+
+```
+
 ```

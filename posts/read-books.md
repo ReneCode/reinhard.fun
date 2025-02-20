@@ -11,6 +11,7 @@ cover_image: /images/posts/orange-1.svg
 | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2025 ==========                                                          | ================================                                             |
 | Erinnerungen, Mein Leben in der Politik                                             | Wolfgang Schäuble                                                            |
+| Deutschland auf der schiefen Bahn: Wohin steuert unser Land?                        | Thilo Sarrazin                                                               |
 | ========== 2024 ==========                                                          | ================================                                             |
 | Ein Manifest: Weil das Land sich ändern muß                                         | Dönhoff, Miegel, Nölling, Reuter, Schmidt, Schröder, Thierse, von Weizsäcker |
 | Das doppelte Deutschland, Eine Parallelgeschichte, 1949 – 1990                      | Ursula Weidenfeld                                                            |

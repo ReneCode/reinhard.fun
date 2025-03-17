@@ -84,3 +84,13 @@ Run the tests with
 `cargo test -- --nocapture`
 
 to see the output of the cpu time
+
+## test if a function panics
+
+```rust
+#[test]
+#[should_panic]
+fn greater_than_100() {
+    Guess::new(200);
+}
+```

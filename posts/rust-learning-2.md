@@ -184,14 +184,26 @@ fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {
 }
 ```
 
-# testing
+# watch
 
-## test if a function panics
-
-```rust
-#[test]
-#[should_panic]
-fn greater_than_100() {
-    Guess::new(200);
-}
+```sh
+cargo add cargo-watch
 ```
+
+```sh
+cargo watch -q -c -w src/ -x 'run -q'
+# -q quiet
+# -c clear
+# -w folter to watch
+# -x command to execute: cargo run -q
+
+
+```
+
+# useful crates
+
+- serde
+- serde_json
+- thiserror
+- anyhow
+- tokio

@@ -45,6 +45,7 @@ impl User {
 enum Color {
   Red,
   Green,
+  #[default]    // Color.Blue is default
   Blue
 }
 

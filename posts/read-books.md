@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                               | Author                                                                       |
 | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2025 ==========                                                          | ================================                                             |
+| Die Schlafwandler: Wie Europa in den ersten Weltkrieg zog                           | Christopher Clark                                                            |
 | Die Große Wanderung                                                                 | Hans Magnus Enzensberger                                                     |
 | Unterleuten                                                                         | Juli Zeh                                                                     |
 | Erinnerungen, Mein Leben in der Politik                                             | Wolfgang Schäuble                                                            |

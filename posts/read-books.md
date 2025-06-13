@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                               | Author                                                                       |
 | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2025 ==========                                                          | ================================                                             |
+| Mein Amerika - Dein Amerika                                                         | Tom Buhrow, Sabine Stamer                                                    |
 | Freiheit: Ein Appell                                                                | Gerhart Baum                                                                 |
 | Die Schlafwandler: Wie Europa in den ersten Weltkrieg zog                           | Christopher Clark                                                            |
 | Die Große Wanderung                                                                 | Hans Magnus Enzensberger                                                     |

@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                               | Author                                                                       |
 | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2025 ==========                                                          | ================================                                             |
+| Freiheit für alle. Das Ende der Arbeit wie wir sie kannten                          | Richard David Precht                                                         |
 | Mein Amerika - Dein Amerika                                                         | Tom Buhrow, Sabine Stamer                                                    |
 | Freiheit: Ein Appell                                                                | Gerhart Baum                                                                 |
 | Die Schlafwandler: Wie Europa in den ersten Weltkrieg zog                           | Christopher Clark                                                            |

@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                               | Author                                                                       |
 | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2025 ==========                                                          | ================================                                             |
+| Factfulness Ten Reasons We're Wrong About the World                                 | Hans Rosling, Anna Rosling Rönnlund                                          |
 | Freiheit für alle. Das Ende der Arbeit wie wir sie kannten                          | Richard David Precht                                                         |
 | Mein Amerika - Dein Amerika                                                         | Tom Buhrow, Sabine Stamer                                                    |
 | Freiheit: Ein Appell                                                                | Gerhart Baum                                                                 |

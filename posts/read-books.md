@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                               | Author                                                                       |
 | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2025 ==========                                                          | ================================                                             |
+| Strengt euch an!: Warum sich Leistung wieder lohnen muss                            | Wolf Lotter                                                                  |
 | Gegen Wahlen, Warum Abstimmen nicht demokratisch ist                                | David Van Reybrouck                                                          |
 | Factfulness Ten Reasons We're Wrong About the World                                 | Hans Rosling, Anna Rosling Rönnlund                                          |
 | Freiheit für alle. Das Ende der Arbeit wie wir sie kannten                          | Richard David Precht                                                         |

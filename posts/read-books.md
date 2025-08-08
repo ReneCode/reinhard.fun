@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                               | Author                                                                       |
 | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2025 ==========                                                          | ================================                                             |
+| Source Code: Meine Anfänge, Die Autobiographie des Microsoft-Gründers               | Bill Gates                                                                   |
 | Abstieg: Demokratische Bedeutungslosigkeit - Ist Deutschland aus der Balance?       | Mathias Hüttenrauch, Benedikt Ötting                                         |
 | Strengt euch an!: Warum sich Leistung wieder lohnen muss                            | Wolf Lotter                                                                  |
 | Gegen Wahlen, Warum Abstimmen nicht demokratisch ist                                | David Van Reybrouck                                                          |

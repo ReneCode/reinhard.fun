@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                                   | Author                                                                       |
 | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2025 ==========                                                              | ================================                                             |
+| Altern: Alle wollen alt werden, niemand will es sein. Ist das nicht absurd?             | Elke Heidenreich                                                             |
 | Staatsversagen: Wie unsere Politik Deutschland vor die Wand fährt                       | Hans-Jürgen Moritz                                                           |
 | Ein Regentropfen kehrt ins Meer zurück, Warum wir uns vor dem Tod nicht fürchten müssen | Abt Muho                                                                     |
 | Source Code: Meine Anfänge, Die Autobiographie des Microsoft-Gründers                   | Bill Gates                                                                   |

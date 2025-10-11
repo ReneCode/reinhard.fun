@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                                         | Author                                                                       |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2025 ==========                                                                    | ================================                                             |
+| Shitbürgertum                                                                                 | Ulf Poschardt                                                                |
 | Das Jahrhundert der Toleranz: Plädoyer für eine wertegeleitete Außenpolitik                   | Richard David Precht                                                         |
 | Ist das euer Ernst?!: Aufstand gegen Idiotie und Ideologie                                    | Peter Hahne                                                                  |
 | Macht im Umbruch: Deutschlands Rolle in Europa und die Herausforderungen des 21. Jahrhunderts | Herfried Münkler                                                             |

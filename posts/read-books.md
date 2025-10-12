@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                                         | Author                                                                       |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2025 ==========                                                                    | ================================                                             |
+| Letzte Chance: Der neue Kanzler und der Kampf um die Demokratie                               | Robin Alexander                                                              |
 | Shitbürgertum                                                                                 | Ulf Poschardt                                                                |
 | Das Jahrhundert der Toleranz: Plädoyer für eine wertegeleitete Außenpolitik                   | Richard David Precht                                                         |
 | Ist das euer Ernst?!: Aufstand gegen Idiotie und Ideologie                                    | Peter Hahne                                                                  |

@@ -1,6 +1,6 @@
 ---
 title: Read Books
-date: "2025-2-1"
+date: "2025-10-27"
 excerpt: What books I have read
 cover_image: /images/posts/orange-1.svg
 ---
@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                                         | Author                                                                       |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2025 ==========                                                                    | ================================                                             |
+| The Sky is No Limit                                                                           | Nicola Winter                                                                |
 | Letzte Chance: Der neue Kanzler und der Kampf um die Demokratie                               | Robin Alexander                                                              |
 | Shitbürgertum                                                                                 | Ulf Poschardt                                                                |
 | Das Jahrhundert der Toleranz: Plädoyer für eine wertegeleitete Außenpolitik                   | Richard David Precht                                                         |

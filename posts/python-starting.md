@@ -53,3 +53,13 @@ print(isPair(p))
 # this is False
 print(isPair(42))
 ```
+
+## exchange a letter in a string at a given index
+
+```
+line = "abcdef"
+index = 3
+line = line[:index] + "X" + line[index+1:]
+
+# line = "abcXef"
+```

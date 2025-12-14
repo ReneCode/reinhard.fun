@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                                         | Author                                                                       |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2025 ==========                                                                    | ================================                                             |
+| I wie Information                                                                             | Chris Haughton                                                               |
 | Abschied von den Boomern                                                                      | Heinz Bude                                                                   |
 | Think Again – Die Kraft des flexiblen Denkens                                                 | Adam Grant                                                                   |
 | Nur die richtige Meinung ist frei: Erfahrungsbericht einer Journalistin                       | Danhong Zhang                                                                |

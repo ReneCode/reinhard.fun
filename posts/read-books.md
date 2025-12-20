@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                                         | Author                                                                       |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2025 ==========                                                                    | ================================                                             |
+| Speed Reading: How to Double (or triple) Your Reading Speed in just One Hour!                 | Jenny Davis                                                                  |
 | I wie Information                                                                             | Chris Haughton                                                               |
 | Abschied von den Boomern                                                                      | Heinz Bude                                                                   |
 | Think Again – Die Kraft des flexiblen Denkens                                                 | Adam Grant                                                                   |

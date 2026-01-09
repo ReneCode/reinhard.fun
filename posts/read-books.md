@@ -9,6 +9,9 @@ cover_image: /images/posts/orange-1.svg
 
 | Title                                                                                         | Author                                                                       |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| ========== 2026 ==========                                                                    | ================================                                             |
+| Szenario                                                                                      | Florence Gaub                                                                |
+| The brain at rest                                                                             | Joseph Jebelli                                                               |
 | ========== 2025 ==========                                                                    | ================================                                             |
 | Speed Reading: How to Double (or triple) Your Reading Speed in just One Hour!                 | Jenny Davis                                                                  |
 | I wie Information                                                                             | Chris Haughton                                                               |

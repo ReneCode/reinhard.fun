@@ -10,6 +10,8 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                                         | Author                                                                       |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2026 ==========                                                                    | ================================                                             |
+| Das Einhörnchen, das rückwärts leben wollte: Zwanzig zamonische Flabeln                       | Walter Moers                                                                 |
+| Der Fönig                                                                                     | Walter Moers                                                                 |
 | Hoffnung für Verzweifelte                                                                     | Hannah Ritchie                                                               |
 | Szenario                                                                                      | Florence Gaub                                                                |
 | The brain at rest                                                                             | Joseph Jebelli                                                               |

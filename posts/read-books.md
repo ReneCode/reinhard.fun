@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                                         | Author                                                                       |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2026 ==========                                                                    | ================================                                             |
+| Schwarmdumm: So blöd sind wir nur gemeinsam                                                   | Gunter Dueck                                                                 |
 | Qwert                                                                                         | Walter Moers                                                                 |
 | Die Welt im Krisenmodus, Demokratien zwischen Reformstau und Polykrise                        | Matthias von Hellfeld                                                        |
 | Das Einhörnchen, das rückwärts leben wollte: Zwanzig zamonische Flabeln                       | Walter Moers                                                                 |

@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                                         | Author                                                                       |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2026 ==========                                                                    | ================================                                             |
+| Wie fühlst du dich? Über unser Innenleben in Zeiten wie diesn                                 | Axel Hacke                                                                   |
 | Schwarmdumm: So blöd sind wir nur gemeinsam                                                   | Gunter Dueck                                                                 |
 | Qwert                                                                                         | Walter Moers                                                                 |
 | Die Welt im Krisenmodus, Demokratien zwischen Reformstau und Polykrise                        | Matthias von Hellfeld                                                        |

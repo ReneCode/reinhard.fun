@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                                         | Author                                                                       |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2026 ==========                                                                    | ================================                                             |
+| Corpus Delicti: Ein Prozess                                                                   | Juli Zeh                                                                     |
 | Warum macht ihr uns kaputt?: Wie wir unsere Zukunft verspielen                                | Peter Hahne                                                                  |
 | Wie fühlst du dich? Über unser Innenleben in Zeiten wie diesn                                 | Axel Hacke                                                                   |
 | Schwarmdumm: So blöd sind wir nur gemeinsam                                                   | Gunter Dueck                                                                 |

@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                                         | Author                                                                       |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2026 ==========                                                                    | ================================                                             |
+| Founders' Stories 2: Was wir von Deutschlands spannendsten Gründern lernen können             | Axel Täubert                                                                 |
 | Eine Frage der Chemie                                                                         | Bonnie Garmus                                                                |
 | Der Kampf in den Köpfen                                                                       | Nina Kolleck                                                                 |
 | Corpus Delicti: Ein Prozess                                                                   | Juli Zeh                                                                     |

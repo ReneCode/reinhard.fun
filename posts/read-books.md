@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                                         | Author                                                                       |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2026 ==========                                                                    | ================================                                             |
+| Du bist nicht allein                                                                          | Jan Fleischhauer                                                             |
 | 1984                                                                                          | George Orwell                                                                |
 | Founders' Stories 2: Was wir von Deutschlands spannendsten Gründern lernen können             | Axel Täubert                                                                 |
 | Eine Frage der Chemie                                                                         | Bonnie Garmus                                                                |

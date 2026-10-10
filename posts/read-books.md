@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                                         | Author                                                                       |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2026 ==========                                                                    | ================================                                             |
+| Träume aus Feuer: Der Alchemist von der Pfaueninsel                                           | Florian Illies                                                               |
 | Dreihundert Männer, Aufstieg und Fall der Deutschland AG                                      | Konstantin Richter                                                           |
 | Geld für Anfänger                                                                             | L. Randall Wray                                                              |
 | Der Preis unserer Toleranz: Warum innere Sicherheit die neue soziale Gerechtigkeitst ist      | Nickolas Emrich                                                              |

@@ -1,6 +1,6 @@
 ---
 title: Read Books
-date: "2025-10-27"
+date: "2026-10-12"
 excerpt: What books I have read
 cover_image: /images/posts/orange-1.svg
 ---
@@ -10,6 +10,7 @@ cover_image: /images/posts/orange-1.svg
 | Title                                                                                         | Author                                                                       |
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | ========== 2026 ==========                                                                    | ================================                                             |
+| How dare you!: Vom Vorteil, eine eigene Meinung zu haben, wenn alle dasselbe denken           | Jan Fleischhauer                                                             |
 | Träume aus Feuer: Der Alchemist von der Pfaueninsel                                           | Florian Illies                                                               |
 | Dreihundert Männer, Aufstieg und Fall der Deutschland AG                                      | Konstantin Richter                                                           |
 | Geld für Anfänger                                                                             | L. Randall Wray                                                              |
